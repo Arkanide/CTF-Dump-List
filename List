@@ -1,0 +1,43 @@
+VM to have
+Kali
+Windows 10 (If prefer not to use host)
+
+Crypto
+https://github.com/RsaCtfTool/RsaCtfTool
+Ciphy (Github)
+dcode.fr/en
+https://www.boxentriq.com
+
+Cracking
+John the Ripper
+crackstation.net
+Aircrack (Cracking with pcap)
+
+Forensics
+FTK Imager
+Volatility 2 & 3
+Eriz Zimmerman Tools
+RegRipper 
+Exiftool
+file
+Foremost
+
+PCAP
+Wireshark
+Network Miner
+Brim
+Strings
+
+RE
+IDA/Ghidra
+DNSpy
+x64dbg
+
+Android
+JADX
+APKLab
+
+Stego (https://0xrick.github.io/lists/stego/)
+zsteg
+stegsolve
+https://github.com/RickdeJager/stegseek
